@@ -19,7 +19,7 @@ This repository is a collection of small Python projects. Each project is self-c
 
 ## Projects
 
-1. **Python_google_sheets**: This project describe using python to manipulate google sheet data with python.
+1. **Python_google_sheets**: This project demonstrates how to use Python to manipulate Google Sheets data, including reading, writing, and deleting data using the Google Sheets API.
 
 (Continue to list and describe other projects)
 
@@ -52,21 +52,21 @@ To get started with these projects, you need to have Python installed on your sy
 
 Each project has its own directory and `README.md` file with specific instructions on how to run and use the project. Navigate to the project's directory and follow the instructions provided.
 
-For example:
+For example, to run a specific project:
 
 1. Navigate to the project directory:
 
     ```bash
-    cd python-mini-projects
+    cd python-google-sheets
     ```
 
 2. Run the project:
 
     ```bash
-    python main.py
+    python sheet.py
     ```
 
-(Replace `main.py` with the relevant script file for the project)
+(Replace `sheet.py` with the relevant script file for the project)
 
 ## Contributing
 
@@ -86,7 +86,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For any questions or suggestions, feel free to reach out:
 
-- **Your Name** - [dmmuchoki7@gmail.com](mailto:dmmuchoki7@gmail.com)
+- **Muchoki David** - [dmmuchoki7@gmail.com](mailto:dmmuchoki7@gmail.com)
 - GitHub: [Muchoki David](https://github.com/MuchokiDavid)
 
 ---
